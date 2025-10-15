@@ -1,4 +1,4 @@
-#GDPR Compliance Checker
+GDPR Compliance Checker
 
 A Python-based tool used for analysis of the policies and privacy documents to check their compliance with the GDPR principles.
 
