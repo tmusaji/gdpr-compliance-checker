@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 # Usage
 
-python checker.py sample_policy.txt
+python checker.py examples/sample_policy.txt
 
 # Example 
 
