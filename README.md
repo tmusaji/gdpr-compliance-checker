@@ -44,12 +44,11 @@ gdpr-compliance-checker/
 ├── requirements.txt       
 ├── README.md             
 ├── models/                
-│   └── model.pth
+          └── model.pth
 ├── examples/       
-
-│   └── sample_policy.txt
+             └── sample_policy.txt
 └── reports/
-│   └── sample_Compliance_Report.html     
+             └── sample_Compliance_Report.html     
 
 # Screenshots 
 
