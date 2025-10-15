@@ -16,6 +16,15 @@ It uses Sentence-BERT (SBERT) embeddings and a pretrained PyTorch model (.pth) t
 
 ==> Uses a pretrained model for classification.
 
+# Prerequisites
+
+Ensure you have the following installed:
+Python 3.10+
+PyTorch
+spaCy
+Transformers
+NLTK
+
 # Installation
 
 git clone https://github.com/tmusaji/gdpr-compliance-checker.git
