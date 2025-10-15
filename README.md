@@ -45,7 +45,8 @@ gdpr-compliance-checker/
 ├── README.md             
 ├── models/                
 │   └── model.pth
-├── examples/            
+├── examples/       
+
 │   └── sample_policy.txt
 └── reports/
 │   └── sample_Compliance_Report.html     
