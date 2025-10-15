@@ -31,7 +31,9 @@ python checker.py sample_policy.txt
 #Example 
 
 Input: "We collect personal data only with the user’s consent and always explain why and how it will be used."
+
 Compliant: "Lawfulness, Fairness and Transparency, Purpose Limitation, Data Minimization"
+
 Not Addressed: "Accuracy, Storage Limitation, Integrity and Confidentiality, Accountability"
 
 #Folder Structure
