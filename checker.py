@@ -107,7 +107,7 @@ if __name__ == "__main__":
         policy_content = file.read()
 
     sentences = sent_tokenize(policy_content)
-    classifier_model = load_model('.models/model.pth')
+    classifier_model = load_model('models/model.pth')
     classifier_model.to(device)
 
     policy_results = sentence_sbert_classify_policy(sentences, classifier_model, threshold=0.8)
